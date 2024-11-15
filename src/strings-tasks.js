@@ -539,7 +539,6 @@ function encodeToRot13(str) {
     )
     .join(' ');
 
-  console.log(str);
   return answer;
 }
 
